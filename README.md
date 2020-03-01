@@ -1,6 +1,6 @@
 # Twitter-Sentiment-Analysis
-# Sentiment Analysis of a Netflix Film
-# Movie Name : All The Bright Places
+# Sentiment Analysis of a Netflix Film : All The Bright Places
+
 In this project I have scraped tweets with hashtag #AlltheBrightPlaces and processed the text using Natural Language Toolkit after which the tweets were catogarized into positive reviews and negative reviews using TestBlob sentiment analyser. Finally using some visualizations I have calculated and visualized the Audience Score for the movie. 
 
 About the Film:
